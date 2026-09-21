@@ -221,10 +221,6 @@ This also means there is no `.env` file, no `GITHUB_TOKEN`-style setup, and no
 
 ## Screenshots
 
-> Save your images in `docs/screenshots/` using exactly these file names
-> (lowercase, `.png`), and they will appear automatically.
-> Create the folder first: `mkdir -p docs/screenshots`
-
 ### Player profile and ratings
 
 <!-- SCREENSHOT 2 — Run: python main.py --player ali_hassan8245
